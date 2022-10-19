@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com Back-End
 - 🌱 Estou estudando .Lua
 - 📫 Contate-me no e-mail : pedro.ordep99@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes : ele/dele
 
 <div align="center">
   <a href="https://github.com/PedroABatista">
