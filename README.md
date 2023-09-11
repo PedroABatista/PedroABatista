@@ -1,7 +1,7 @@
 ## Olá eu sou Pedro Batista
 
-- 🔭 Hoje trabalho com Back-End
-- 🌱 Estou estudando .Lua
+- 🔭 Estudante de Back-End
+- 🌱 Estou estudando Java
 - 📫 Contate-me no e-mail : pedro.ordep99@gmail.com
 - 😄 Pronomes : ele/dele
 
