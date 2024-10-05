@@ -2,7 +2,7 @@
 <h3 align="center">Um Analista de Sistemas apaixonado</h3>
 <img align="right" alt="Coding" width="200" src="https://github.com/user-attachments/assets/0f18a16c-32a1-49aa-8ead-6e8eccdac095">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrolux123&label=Profile%20views&color=0e75b6&style=flat" alt="cyrolux123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrolux123&label=Profile%20views&color=0e75b6&style=flat" alt="PedroABatista" /> </p>
 
 - 🌱 Atualmente estou estudando **Sistemas de Informação**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pedro-batista-452ba71b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro batista" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pedro-batista-452ba71b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="PedroABatista" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
