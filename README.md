@@ -28,3 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroABatista&show_icons=true&locale=en&layout=compact" alt="PedroABatista" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroABatista&" alt="PedroABatista" /></p>
+
+![Snake animation](https://github.com/PedroABatista/PedroABatista/blob/output/github-contribution-grid-snake.svg)
