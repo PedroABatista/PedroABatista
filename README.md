@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou o Pedro</h1>
 <h3 align="center">Um Analista de Sistemas apaixonado</h3>
-<img align="right" alt="Coding" width="200" src="![JXA0](https://github.com/user-attachments/assets/bde62afa-713a-4f45-b194-394273a168ac)">
+<img align="right" alt="Coding" width="200" src="https://github.com/user-attachments/assets/0f18a16c-32a1-49aa-8ead-6e8eccdac095">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrolux123&label=Profile%20views&color=0e75b6&style=flat" alt="cyrolux123" /> </p>
 
