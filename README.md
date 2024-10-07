@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrolux123&label=Profile%20views&color=0e75b6&style=flat" alt="PedroABatista" /> </p>
 
-- 🌱 Atualmente estou estudando **Sistemas de Informação**
+- 🌱 Atualmente estou cursando  **Sistemas de Informação**
 
 - 📫 Entre em contato **ordep.pedro99@gmail.com**
 
