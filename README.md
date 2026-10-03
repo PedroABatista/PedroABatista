@@ -1,39 +1,82 @@
-<h1 align="center">Olá 👋, Eu sou o Pedro</h1>
-<h3 align="center">Um Analista de Sistemas apaixonado</h3>
-<img align="right" alt="Coding" width="200" src="https://github.com/user-attachments/assets/0f18a16c-32a1-49aa-8ead-6e8eccdac095">
+<h1 align="center">Olá, eu sou o Pedro 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrolux123&label=Profile%20views&color=0e75b6&style=flat" alt="PedroABatista" /> </p>
+<h3 align="center">Desenvolvedor Back-end em formação · Java & Spring Boot</h3>
 
-- 🌱 Atualmente estou cursando  **Sistemas de Informação**
-
-- 📫 Entre em contato **ordep.pedro99@gmail.com**
-
-- ⚡ Hobby : **EAT-SLEEP-CODE-REPEAT**
-
-<h3 align="left">Connect with me :</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pedro-batista-452ba71b2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="PedroABatista" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://pedrobatista.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-0A0A0F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+  </a>
+  <a href="https://www.linkedin.com/in/pedrohabatista/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ordep.pedro99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<table>
-  <tr>
-    <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.oracle.com/br/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javaScript" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.lua.org/docs.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://mariadb.com/kb/en/documentation/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-  </tr>
-</table>
+### 👨‍💻 Sobre mim
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroABatista&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></td>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroABatista" alt="GitHub Streak" /></td>
-  </tr>
-</table>
+Estudante de **Sistemas de Informação** com foco em desenvolvimento back-end. Estou construindo uma base sólida em **Java**, **Spring Boot** e **bancos de dados relacionais**, aplicando os conceitos em projetos práticos.
 
-![Snake animation](https://github.com/PedroABatista/PedroABatista/blob/output/github-contribution-grid-snake.svg)
+Tenho experiência profissional com **suporte técnico, sistemas ERP e bancos de dados** — o que me deu bagagem real em resolução de problemas e contato com o mundo corporativo.
+
+🎯 **Buscando:** primeira oportunidade como desenvolvedor back-end  
+🌎 **Localização:** Caxias do Sul, RS · Disponível para remoto  
+📫 **Contato:** [ordep.pedro99@gmail.com](mailto:ordep.pedro99@gmail.com)  
+🔗 **Portfólio:** [pedrobatista.vercel.app](https://pedrobatista.vercel.app)
+
+---
+
+### 🛠️ Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+### 🚀 Projetos em destaque
+
+#### 🔹 [API Biblioteca](https://github.com/PedroABatista/biblioteca-api)
+API REST para gerenciamento de biblioteca, construída com Java, Spring Boot e PostgreSQL.
+- CRUD completo de autores e livros
+- Relacionamento `@ManyToOne` entre entidades
+- Validação de dados e tratamento global de exceções
+- Documentação interativa com Swagger
+
+🔗 [Testar API ao vivo](https://biblioteca-api-mzkb.onrender.com/swagger-ui.html)
+
+#### 🔹 [Jogo de Adivinhação](https://github.com/PedroABatista/jogo-de-adivinhacao)
+Aplicação interativa com HTML, CSS e JavaScript, focada em lógica de programação e manipulação do DOM.
+
+🔗 [Ver demo](https://jogo-six-coral.vercel.app)
+
+#### 🔹 [Portfólio Pessoal](https://github.com/PedroABatista/MeuSite)
+Site pessoal construído do zero com HTML, CSS e JavaScript puro — sem frameworks, sem dependências.
+
+🔗 [Ver ao vivo](https://pedrobatista.vercel.app)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroABatista&show_icons=true&theme=dark&hide_border=true&locale=pt-br&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroABatista&layout=compact&theme=dark&hide_border=true&locale=pt-br" alt="Top Langs" height="180"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Aprender construindo."</i>
+</p>
